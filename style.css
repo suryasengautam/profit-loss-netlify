@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: chartreuse;
+}
+label {
+    display: block;
+    padding-bottom: "1rem";
+
+}
+#output-box{
+    display: block;
+    font-style: italic;
+    color: red;
+}
