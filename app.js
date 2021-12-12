@@ -22,7 +22,7 @@ function calculateProfitAndLoss(initial, quantity, current) {
     var profit = (current - initial) * quantity;
     var profitPercentage = (profit / initial) * 100;
     showOutput(
-      `hey the profit is ${profit} and the percentage loss is ${profitPercentage}%`
+      `hey the profit is ${profit} and the percentage profit is ${profitPercentage}%`
     );
     
   } else {
